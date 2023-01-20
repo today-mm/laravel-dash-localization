@@ -31,7 +31,7 @@ Usage
 ```
 
 {{$laravelDashPackageName->widget()}}
-{{$laravelDashPackageName->crud-edit()}}
+{{$laravelDashPackageName->crud-update()}}
 
 ```
 
